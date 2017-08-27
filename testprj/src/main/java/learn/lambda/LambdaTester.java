@@ -1,10 +1,10 @@
-package lean.lambda;
+package learn.lambda;
 
 import java.time.LocalDate;
 import java.util.Arrays;
 import java.util.List;
 
-import lean.lambda.Person.Sex;
+import learn.lambda.Person.Sex;
 
 public class LambdaTester {
 

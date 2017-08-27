@@ -1,5 +1,6 @@
 package testprj;
 
+
 public class NewTester {
 
 	public static void main(String[] args) {

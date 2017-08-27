@@ -1,4 +1,4 @@
-package lean.lambda;
+package learn.lambda;
 
 import java.time.LocalDate;
 
